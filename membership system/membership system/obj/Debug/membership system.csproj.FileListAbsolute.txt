@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\membership system\membership system\bin\Debug\membership system.exe.config
+C:\Users\hasan\source\repos\membership system\membership system\bin\Debug\membership system.exe
+C:\Users\hasan\source\repos\membership system\membership system\bin\Debug\membership system.pdb
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership system.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership_system.Form1.resources
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership_system.Properties.Resources.resources
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership system.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership system.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership system.exe
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership system.pdb
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership_system.LogInForm.resources
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership_system.SignIn.resources
+C:\Users\hasan\source\repos\membership system\membership system\obj\Debug\membership_system.MemberInfo.resources
